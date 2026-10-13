@@ -1,0 +1,6 @@
+{
+  "name": "Zimbabwe Customer Sentiment Intelligence",
+  "description": "Enterprise customer sentiment intelligence platform for Zimbabwean businesses, analysing multilingual feedback across English, Shona, Ndebele, and code-mixed channels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
